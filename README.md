@@ -2,7 +2,7 @@
 **Overview:** Implement **Logistic Regression** for classification tasks.  
 **Technologies:** Python, NumPy, Pandas, Matplotlib, Scikit-Learn.  
 
-#### 🚀 How to Run  
+#### How to Run  
 1. Install dependencies:  
    ```bash
    pip install -r requirements.txt
@@ -12,9 +12,9 @@
    python logistic_regression.py
    ```
 
-#### 📊 Evaluation  
+#### Evaluation  
 - Metrics: **Confusion Matrix, Precision, Recall, F1-score**  
 - Visualizations: **ROC Curve, AUC Score**  
 
-#### 🔍 Enhancements  
+#### Enhancements  
 - Add **L1/L2 Regularization, Softmax for Multiclass**  
